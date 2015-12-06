@@ -38,7 +38,7 @@ body.widget_body {
 
 	background-image: none !important;
 
-	background-color: #222;
+	background-color: #2F343F;
 
 }
 
@@ -194,7 +194,7 @@ a#top_reg_link {
 
 #page_header.p_head1 .back {
 
-	background-color: #222;
+	background-color: #2F343F;
 
 }
 
@@ -220,7 +220,7 @@ a#top_reg_link {
 
 	background-image:none;
 
-	background-color:#222;
+	background-color:#2F343F;
 
 }
 
@@ -792,7 +792,7 @@ input.dark, .im_editable, #pv_comment, #flist_search, div.wdd, #mail_box_editabl
 
 .selector_container, .dd_menu_rows a {
 
-    background-color:#222;
+    background-color:#2F343F;
 
 
 
@@ -848,7 +848,7 @@ td.selector_dropdown:hover, .dd_menu_rows a:hover {
 
 .result_list ul li {
 
-    background-color:#222;
+    background-color:#2F343F;
 
     color:#888;
 
@@ -2606,11 +2606,11 @@ div.reply_text > div[style$='0);']
 
 {
 
-   background: #222 !important;
+   background: #2F343F !important;
 
 }
 
-.reply_text>div[style$='255);'] {background-color:#222 !important;}
+.reply_text>div[style$='255);'] {background-color:#2F343F !important;}
 
 
 
