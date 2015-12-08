@@ -1206,7 +1206,7 @@ background-color:#555;
 
 .left_count_wrap, .left_nav_over .left_count_pad .left_count_wrap, #profile .rate_line .rate_left, .box_controls .flat_button.secondary:hover, .topics_module .topic_to_last:hover, .flat_button.secondary:hover, .button_gray button:hover, .olist_item_wrap em, .olist_item_wrap_on em, .olist_item_wrap_over em, #pv_friends .list_wrap a em {
 
-    background-color: rgb(159, 151, 116);
+    background-color: #5294E2;
 
 }
 
@@ -1536,7 +1536,7 @@ div.wl_owner_head_name span, #pad_title_right, .wall_post_text:hover .wall_post_
 
 .profile_rate_warning .warning_row .plus, .mail_box_close, .photos_title_search, .photos_choose_close a, .docs_title_search, .docs_choose_close a, .tb_close, .choose_close a, .blst_mem, .mv_author_name a, .video_edit_delete, .mv_descr_expand_toggle, .mem_link, .apps_featured_wrap .apps_featured_small_thumbs_wrap .apps_featured_thumb_name, .exchange_table th, .payments_systems_container .ps_title h2, .exchange_filter_label, .dialogs_typing_box, .fc_tab_typing, .wall_module .feedback_row_answer .dld, .wall_module .feedback_reply_row .dld, .fw_like_count {
 
-    color:rgb(159, 151, 116);
+    color:#5294E2;
 
 }
 
@@ -1648,7 +1648,7 @@ div#im_footer_filler {
 
 #head_play_btn, .docs_add_row, .audio_filter div.icon, #ac .ctrl, #ac_play, #audio.new .audio_edit, #audio.new .audio_remove, #gp_play, #pd_play, #pd .ctrl, .audio_add, .medadd_aud_play, #audio.new .audio_add, .vka_ctrl, #pad_playlist_panel .audio.current .play_new, #audio.new .audio.current .play_new, #audio_tip_arrow, .current_audio div.label, .current_audio_cnt div.label, .vk_edit_ico {
 
-    background-image: url(http://kapraru.com/img/audio_icons.png);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/audio_icons2.png);
 
 }
 
@@ -1800,7 +1800,7 @@ div#im_footer_filler {
 
 #head_play_btn, .docs_add_row, .audio_filter div.icon, #ac .ctrl, #ac_play, #audio.new .audio_edit, #audio.new .audio_remove, #gp_play, #pd_play, #pd .ctrl, .audio_add, .medadd_aud_play, #audio.new .audio_add, .vka_ctrl {
 
-    background-image: url(http://kapraru.com/img/audio_icons.png);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/audio_icons2.png);
 
 }
 
@@ -2106,7 +2106,7 @@ div#im_footer_filler {
 
 #pv_like_wrap i, .fw_like_icon, .lastfm_fav_icon, .market_share_icon, .market_like_icon {
 
-    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/like.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/like.png);
 
 }
 
