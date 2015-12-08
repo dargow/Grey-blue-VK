@@ -432,7 +432,7 @@ div#wl_post_body_wrap .page_media_thumbed_link, .medadd_c_polladd, .medadd_c_pol
 
 div.fc_clist_filter_wrap, #fc_ctabs_cont, .audio_search, #pva_more, #pva_more_photos, #pvsa_more_photos,
 
-.photos_add_upl_row.photos_add_first_child, .photos_add_upl_row, #photos_add_p_inner, .photos_add_bar_wrap, #photos_add_p_line, .profile_progress, .profile_progress_wrap, #pad_cont.pad_loading, .groups_no_list, .priv_h_rows, .sdivide, .market_search_wrap, .market_comment, .vk_popupmenu, .vk_profile_block, .vk_profile_common_fr_header, .vk_profile_header_divider, .audio_progress_wrap, .page_attach_progress_wrap, .im_more:hover .im_more_text, .im_morenew:hover .im_more_text, .im_more_text, .video_channel_header, .wcomments_input, .fc_tab_notify, #wrap2, #wcomments_more_link
+.photos_add_upl_row.photos_add_first_child, .photos_add_upl_row, #photos_add_p_inner, .photos_add_bar_wrap, #photos_add_p_line, .profile_progress, .profile_progress_wrap, #pad_cont.pad_loading, .groups_no_list, .priv_h_rows, .sdivide, .market_search_wrap, .market_comment, .vk_popupmenu, .vk_profile_block, .vk_profile_common_fr_header, .vk_profile_header_divider, .audio_progress_wrap, .page_attach_progress_wrap, .im_more:hover .im_more_text, .im_morenew:hover .im_more_text, .im_more_text, .video_channel_header, .wcomments_input, .fc_tab_notify, #wrap2, #wcomments_more_link, .msg.closed_page
 
 {
 
@@ -682,7 +682,7 @@ div.ts, #ts_input, #ts_wrap .input_back, .wall_module #submit_post_box textarea,
 
 .wall_module .reply_fakebox, .video_search #v_search, input.text, input.search, textarea, input.big_text, input.dark,
 
-#im_filter, #friends #s_search, #flist_search, #places_filter, #groups_list_search, #search_query, #docs_search_bar .tdd_control, #ba_text, .mv_reply_fakebox, .mv_reply_box, #mv_comment, .audio_friends_search_btn:hover, #box_layer .box_dark .tabbed_box.has_sh .tabbed_sh1, .tdd_input, #wall_search, #gedit_users_search_inp, #gift_tt, .feedback_reply_field, #market_search_input, #shorten_short, .video_channel_header, #feed_search {
+#im_filter, #friends #s_search, #flist_search, #places_filter, #groups_list_search, #search_query, #docs_search_bar .tdd_control, #ba_text, .mv_reply_fakebox, .mv_reply_box, #mv_comment, .audio_friends_search_btn:hover, #box_layer .box_dark .tabbed_box.has_sh .tabbed_sh1, .tdd_input, #wall_search, #gedit_users_search_inp, #gift_tt, .feedback_reply_field, #market_search_input, #shorten_short, .video_channel_header, #feed_search, .msg.closed_page {
 
     background-color:#383C4A;
 
