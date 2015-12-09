@@ -722,7 +722,7 @@ input.dark, .im_editable, #pv_comment, #flist_search, div.wdd, #mail_box_editabl
 
 #feed_search, .video_search #v_search, #im_filter, #friends #s_search, #flist_search, .choose_search_cont input, #places_filter, #groups_list_search, #settings_bl_search, #search_query, .tdd_search .tdd_control, #board_q, #audio.new .audio_search .s_search, #pad_audio_search input.pad_search, .app_search .s_search, .apps_search_wrap .s_search, .app_search .s_search_small, input.olist_filter, .audio_search .s_search, #fave_search, #wall_search, #gedit_users_search_inp, #group_bl_search, #group_l_search, #exchange_comm_search_filters #exchange_search_input, #fans_idol_search_inp, #market_search_input {
 
-    background-image: url(http://kapraru.com/img/magglass.png);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/magglass.png);
 
 }
 
@@ -762,7 +762,7 @@ input.dark, .im_editable, #pv_comment, #flist_search, div.wdd, #mail_box_editabl
 
 #ads_user_link, #im_filter_out_groups .im_filter, #im_filter_out .im_filter {
 
-    background-image: url(http://kapraru.com/img/magglass.png) !important;
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/magglass.png) !important;
 
 }
 
@@ -974,7 +974,7 @@ td.selector_dropdown:hover, .dd_menu_rows a:hover {
 
 .button_cancel .button:hover {
 
-    background-color: rgb(159, 151, 116);
+    background-color: #5294E2;
 
     color:#FFFFFF;
 
@@ -1648,7 +1648,7 @@ div#im_footer_filler {
 
 #head_play_btn, .docs_add_row, .audio_filter div.icon, #ac .ctrl, #ac_play, #audio.new .audio_edit, #audio.new .audio_remove, #gp_play, #pd_play, #pd .ctrl, .audio_add, .medadd_aud_play, #audio.new .audio_add, .vka_ctrl, #pad_playlist_panel .audio.current .play_new, #audio.new .audio.current .play_new, #audio_tip_arrow, .current_audio div.label, .current_audio_cnt div.label, .vk_edit_ico {
 
-    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/audio_icons2.png);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/audio_icons.png);
 
 }
 
@@ -1800,7 +1800,7 @@ div#im_footer_filler {
 
 #head_play_btn, .docs_add_row, .audio_filter div.icon, #ac .ctrl, #ac_play, #audio.new .audio_edit, #audio.new .audio_remove, #gp_play, #pd_play, #pd .ctrl, .audio_add, .medadd_aud_play, #audio.new .audio_add, .vka_ctrl {
 
-    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/audio_icons2.png);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/audio_icons.png);
 
 }
 
@@ -1848,7 +1848,7 @@ div#im_footer_filler {
 
 .audio .play_new {
 
-    background-image: url(http://kapraru.com/img/playpause.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/playpause.png.png);
 
 }
 
