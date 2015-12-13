@@ -1218,7 +1218,7 @@ background-color:#555;
 
 #gp_wrap {
 
-background-color: rgba(85, 85, 85, 0.78);
+background-color: #404552;
 
 }
 
@@ -1708,7 +1708,7 @@ div#im_footer_filler {
 
 #stl_text, .replies_side_icon {
 
-    background-image: url(http://kapraru.com/img/toplink.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/toplink.gif);
 
 }
 
@@ -1970,7 +1970,7 @@ div#im_footer_filler {
 
 .post_upload_wrap div.post_upload, .im_upload_wrap div.im_upload {
 
-    background-image: url(http://kapraru.com/img/attach_photo1.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/attach_photo1.gif);
 
 }
 
@@ -2132,7 +2132,7 @@ div#im_footer_filler {
 
 .page_docs_preview .page_media_x_wrap, .feedback_del_icon, .wall_module .delete_post div, .app_delete_row {
 
-    background-image: url(http://kapraru.com/img/statusx_op.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/statusx_op.gif);
 
 }
 
@@ -2992,7 +2992,10 @@ background-color:transparent!important;
 
 }
 
-
+	#feed_wall .feed_reposts_more_link {
+		border-top: rgb(56, 60, 74);
+		border-bottom: rgb(56, 60, 74);
+	}
 
 
 
