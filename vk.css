@@ -1182,7 +1182,7 @@ a.olist_item_wrap:hover, a.olist_item_wrap_over:hover, a.olist_item_wrap_on:hove
 
 #pad_playlist_panel .audio.tab_current .area, #pad_playlist_panel .audio.tab_current.tt_shown .area, #pad_playlist_panel .audio.tab_current.over .area, #pad_playlist_panel .audio.rec_source .area, #pad_playlist_panel .audio.rec_source.tt_shown .area, #pad_playlist_panel .audio.rec_source.over .area, .pe_type_chooser_item:hover, .vk_vslider_line, #main_feed .post .match, .im_tab_over .im_tab2, .vk_profile_common_fr_header, .scrollbar_cont.scrollbar_c_overed, .color3_bg {
 
-background-color:#444;
+background-color:#383C4A;
 
 }
 
@@ -1664,7 +1664,7 @@ div#im_footer_filler {
 
 .wall_post_source_icon {
 
-    background-image: url(http://kapraru.com/img/profile_icons.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/profile_icons.gif);
 
 }
 
@@ -1994,7 +1994,7 @@ div#im_footer_filler {
 
 .gifts_list_module a span.thumb, .counts_module div a span.thumb, .profile_gift_send .send_thumb, .page_verified, .search_verified {
 
-    background-image: url(http://kapraru.com/img/profile_icons.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/profile_icons.gif);
 
 }
 
@@ -2292,7 +2292,7 @@ div#im_footer_filler {
 
 {
 
-    background-image: url(http://kapraru.com/img/attach_icons.png) !important;
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/attach_icons.png) !important;
 
 }
 
@@ -2614,9 +2614,9 @@ div.reply_text > div[style$='0);']
 
 
 
-.widget_body a[style^='background-image: url(http://vk.com/images/icons/attach_icons.png'] {
+.widget_body a[style^='background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/attach_icons.png'] {
 
-	    background-image: url('http://kapraru.com/img/attach_icons.png') !important;
+	    background-image: url('https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/attach_icons.png') !important;
 
 }
 
@@ -2997,6 +2997,14 @@ background-color:transparent!important;
 		border-bottom: rgb(56, 60, 74);
 	}
 
-
+	.mv_is_in_progress {
+		color: #ffffff;
+		background-color: #383C4A;
+	}
+	
+	.page_doc_icon {
+    background: #383C4A url('/images/icons/darr.gif') 6px 7px no-repeat;
+		color: #ffffff;
+	}
 
 }
