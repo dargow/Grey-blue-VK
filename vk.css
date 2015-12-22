@@ -1930,7 +1930,7 @@ div#im_footer_filler {
 
 .page_photos_upload_label, .page_topics_upload_label, .page_audios_upload_label, .page_links_upload_label, .page_videos_upload_label, .page_docs_upload_label, .page_events_upload_label, .page_contacts_upload_label, .page_places_upload_label, .page_market_upload_label {
 
-    background-image: url(http://kapraru.com/img/group_icons.png);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/group_icons.png);
 
 }
 
@@ -2096,7 +2096,7 @@ div#im_footer_filler {
 
 .exchange_ad_post_club_commment, b.feed_gr_icon, b.feed_ev_icon, b.feed_tp_icon, b.feed_nt_icon, .vkico_friends, .vkico_profile, .vkico_albums, .vkico_video, .vkico_audio, .vkico_audios, .vkico_mail, .vkico_im, .vkico_notes, .vkico_groups, .vkico_events, .vkico_feed, .vkico_newsfeed, .vkico_fave, .vkico_custom_link, .vkico_settings, .vkico_apps, .vkico_docs, .vkico_wall, .vkico_gifts, .vkico_vkplug, .vkico_vkopt, .vkico_app, .vkico_ads, .vkico_pages, .vkico_support, .vk_repost_icon, .vk_photo_icon, .vk_msg_icon, .vk_audio_icon, .vk_video_icon {
 
-    background-image: url(http://kapraru.com/img/mono_iconset.png);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/mono_iconset.png);
 
 }
 
@@ -3003,7 +3003,7 @@ background-color:transparent!important;
 	}
 	
 	.page_doc_icon {
-    background: #383C4A url('/images/icons/darr.gif') 6px 7px no-repeat;
+    background: #383C4A url('https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/darr.gif') 6px 7px no-repeat;
 		color: #ffffff;
 	}
 
