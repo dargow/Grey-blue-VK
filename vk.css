@@ -1066,7 +1066,7 @@ div.fc_tab_txt, .dark_box_cont, #im_footer_sh, #im_peer_controls, .box_body, .ph
 
 .box_dark .box_controls, #privacy_dropdown .item, #privacy_dropdown .item_sel,
 
-.box_dark .box_x_button:hover, #photos_upload_area, #photos_go_to_album_cont,
+#photos_upload_area, #photos_go_to_album_cont,
 
 #photos_upload_area, .wl_post_reply_form_forbidden, .like_share_tab_wrap,
 
@@ -1384,7 +1384,7 @@ div#wl_post_actions_wrap a.wl_post_action_link:hover, #wk_like_link, #feed_recom
 
 }
 
-.box_dark .box_x_button, hr {color:#333;}
+.box_dark .box_x_button, hr {color:#C7D7E9;}
 
 
 
@@ -2036,7 +2036,7 @@ div#im_footer_filler {
 
 .docs_item_icon {
 
-    background-image: url(http://kapraru.com/img/darr.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/darr.gif);
 
 }
 
@@ -2148,13 +2148,13 @@ div#im_footer_filler {
 
 .wall_module .reply_edit_button, .wall_module .post_edit_button, .docs_edit_row {
 
-    background-image: url(http://kapraru.com/img/statusedit.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/statusedit.gif);
 
 }
 
 .radiobtn div, .radiobtn_container table td .radiobtn_on div, .radiobtn_container table td .radiobtn_off div, .radiobtn_container table td .radiobtn_on_over div, .radiobtn_container table td .radiobtn_off_over div {
 
-    background-image: url(http://kapraru.com/img/radio.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/radio.png);
 
 }
 
@@ -2268,7 +2268,7 @@ div#im_footer_filler {
 
 .docs_choose_def_icon, .docs_choose_over_row .docs_choose_def_icon {
 
-    background-image: url(http://kapraru.com/img/darr.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/darr.gif);
 
 }
 
@@ -3006,5 +3006,45 @@ background-color:transparent!important;
     background: #383C4A url('https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/darr.gif') 6px 7px no-repeat;
 		color: #ffffff;
 	}
+	
+	.settings_label {
+		color: #ffffff !important;
+	}
+	
+	#faq_search_form {
+    background: #2F343F;
+}
 
+	#faq_search_form__title {
+		background: #404552 url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/magglass.png) no-repeat 8px 9px;
+}
+	
+	.help_tiles {
+    border-top: 1px solid #2F343F;
+	}
+	
+.help_tile__title_a {
+    color: #fff;
+}	
+	
+	.tdd_input {
+		background-color: #383C4A !important;
+		border-right-color: rgb(136, 136, 136) !important;
+	}
+	
+	#ts_input {
+		border: 0 !important;
+		border-color: rgb(136, 136, 136) !important;}
+	
+	
+	box_dark .box_x_button {
+		color: #5294E2 !important;
+	}
+	
+	.box_dark .box_x_button:hover {
+		color: #5294E2;
+	}
+	
+	
+	
 }
