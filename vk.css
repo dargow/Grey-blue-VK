@@ -2068,7 +2068,7 @@ div#im_footer_filler {
 
 .checkbox div, .checkbox_container table td .checkbox_on, .checkbox_container table td .checkbox_off, .checkbox_container table td .checkbox_on_over, .checkbox_container table td .checkbox_off_over {
 
-    background-image: url(http://kapraru.com/img/check.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/check.gif);
 
 }
 
@@ -2284,7 +2284,7 @@ div#im_footer_filler {
 
 .emoji_smile_icon {
 
-    background-image: url(http://kapraru.com/img/im_smile_cross.png);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/im_smile_cross.png);
 
 }
 
@@ -3044,6 +3044,14 @@ background-color:transparent!important;
 	.box_dark .box_x_button:hover {
 		color: #5294E2;
 	}
+	
+	.profile_info .label {
+    color: #CCC !important;
+}
+	.groups_inv_cont {
+    background: #2F343F;
+}
+	
 	
 	
 	
