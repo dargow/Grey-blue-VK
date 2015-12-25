@@ -2044,7 +2044,7 @@ div#im_footer_filler {
 
 .feed_filter_check {
 
-    background-image: url(http://kapraru.com/img/check_balanced.gif);
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAPCAYAAADUFP50AAAAAXNSR0IArs4c6QAAAE1JREFUKM9jYBie4P///1EwNiNZmhgZlzGSo4mBgYGBCZskIU1wp+KSxCWObONKdMX4NKEEzv///xkZGBgiMRRg0YQ1VAnZRHQoDgMAABnBLg/TgwUAAAAAAElFTkSuQmCC);
 
 }
 
@@ -2140,7 +2140,7 @@ div#im_footer_filler {
 
 .wall_module .feedback_like_wrap .like_wrap div {
 
-    background-image: url(http://kapraru.com/img/feedback_iconset.gif);
+    background-image: url(https://img-fotki.yandex.ru/get/4128/161026817.0/0_abe7f_321929e8_orig#!feedback);
 
 }
 
@@ -2154,7 +2154,7 @@ div#im_footer_filler {
 
 .radiobtn div, .radiobtn_container table td .radiobtn_on div, .radiobtn_container table td .radiobtn_off div, .radiobtn_container table td .radiobtn_on_over div, .radiobtn_container table td .radiobtn_off_over div {
 
-    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/radio.png);
+    background-image: url(https://img-fotki.yandex.ru/get/5641/161026817.0/0_abe92_847cd94b_orig#!radio);
 
 }
 
@@ -3082,5 +3082,17 @@ background-color:transparent!important;
 		background: #2F343F !important;
 	}
 	
+
+#feed_menu {
+background: #383C4A !important;
+}
 	
+.group_row_info {
+		color: inherit !important;
+	}
+	
+
+
+
+
 }
