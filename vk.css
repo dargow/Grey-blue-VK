@@ -1690,7 +1690,7 @@ div#im_footer_filler {
 
 	   z-index:9999999999;
 
-    background-image: url(http://kapraru.com/img/backlink.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/backlink.gif);
 
 }
 
@@ -3051,6 +3051,36 @@ background-color:transparent!important;
 	.groups_inv_cont {
     background: #2F343F;
 }
+	
+	#im_to_end_wrap:hover {
+		background: #2F343F ;
+		color: #5294E2;
+		border-color: #2B2E39 !important;
+	}
+	
+	.feedback_row_group_names {
+    color: #CCC;
+}
+	 
+	.groups_list_module .group_desc, .page_list_module .group_desc, .page_list_module .people_desc, .page_list_module .people_extra {
+		color: #ccc !important;
+	}
+	
+	.wall_text .explain {
+		color: #fff !important;
+	}
+	.group_actions_header:hover {
+		color: #fff !important;
+	}
+	.group_info .label {
+		color: white !important;
+	}
+	.im_date_link, .im_date_link a {
+		color: #ccc !important;
+	}
+	.chat_onl_wrap:hover {
+		background: #2F343F !important;
+	}
 	
 	
 	
