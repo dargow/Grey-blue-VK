@@ -502,7 +502,7 @@ a.wk_vk_link, a.wk_vk_link:hover, #gift_tt, .im_upload_dropbox_inner, a.wk_ext_l
 
 #im_to_end_wrap, .im_to_end_controls #im_peer_controls {
 
-	border-color:#333 !important;
+	border-color:#2B2E39 !important;
 
 }
 
@@ -550,7 +550,7 @@ border-color:transparent;
 
 .mv_subscribe_block .mv_subscribers:after {
 
-	border-left-color: #333;
+	border-left-color: #2B2E39;
 
 }
 
@@ -570,7 +570,7 @@ border-color:transparent;
 
     background-color:#2B2E39;
 
-    border-color:#333;
+    border-color:#2B2E39;
 
 }
 
@@ -786,7 +786,7 @@ input.dark, .im_editable, #pv_comment, #flist_search, div.wdd, #mail_box_editabl
 
 .audio_friends_search_btn:focus {
 
-    border:1px solid #333;
+    border:1px solid #2B2E39;
 
 }
 
@@ -812,7 +812,7 @@ outline:1px solid #404552;
 
 .selector_container table.selector_table,  .dd_menu_rows a {
 
-    border-color:#333;
+    border-color:#2B2E39;
 
 }
 
@@ -898,7 +898,7 @@ td.selector_dropdown:hover, .dd_menu_rows a:hover {
 
 .video_search_input_wrap input {
 
-    border-color:#333 !important;
+    border-color:#2B2E39 !important;
 
 }
 
@@ -1324,7 +1324,7 @@ em.fc_clist_hl {
 
 	background-color:#000;
 
-	border-bottom:#333;
+	border-bottom:#2B2E39;
 
 }
 
@@ -1674,7 +1674,7 @@ div#im_footer_filler {
 
 .dialogs_typing_box .dialogs_typing_icon, .fc_tab_typing {
 
-    background-image: url('http://kapraru.com/img/typing_dialogs.gif');
+    background-image: url('http://vk.com/images/icons/typing.gif?1');
 
 }
 
@@ -1724,7 +1724,7 @@ div#im_footer_filler {
 
 #pv_edit_actions .idd_item_icon {
 
-    background-image: url(http://kapraru.com/img/photo_actions.png);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/photo_actions.png);
 
 }
 
@@ -1922,7 +1922,7 @@ div#im_footer_filler {
 
 #pv_photo img {
 
-    background-image: url(http://kapraru.com/img/progress_gray_inv1.gif);
+    background-image: url(https://img-fotki.yandex.ru/get/4133/161026817.0/0_abe91_d39fc34b_orig#!loadbig);
 
 }
 
@@ -1946,7 +1946,7 @@ div#im_footer_filler {
 
 .mob_onl {
 
-    background-image: url(http://kapraru.com/img/mobile_online.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/mobile_online.gif);
 
 }
 
@@ -2770,7 +2770,7 @@ background-color:transparent!important;
 
 	background:#2F343F!important;
 
-	border: 1px solid #333 !important;
+	border: 1px solid #2B2E39 !important;
 
 }
 
@@ -3081,8 +3081,6 @@ background-color:transparent!important;
 	.chat_onl_wrap:hover {
 		background: #2F343F !important;
 	}
-	
-	
 	
 	
 }
