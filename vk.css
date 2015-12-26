@@ -1758,7 +1758,7 @@ div#im_footer_filler {
 
 .button_no.locked .lock, .button_gray .button_lock, .secondary.flat_btn_lock, .el_mask .el_mask_progress_wrap .el_mask_progress, .app_module .app_container, #choose_video .search_progress, .wall_module .page_poll_radio .progress_inline, .medadd_c_linkimg_loader, .app_module .app_container, .fc_msg_progress, .fc_msg_attachments_loading, #pad_audio_search .pad_progress, .apps_search_wrap .search_progress, .app_search .search_progress, #exchange_search_progress, .tickets_search_progress, .button_lock, #friends_fltr_progress, .photos_add_s_loading, #pad_cont.pad_loading {
 
-    background-image: url(http://kapraru.com/img/upload.gif);
+    background-image: url(https://img-fotki.yandex.ru/get/4123/161026817.0/0_abe9b_f5d8da34_orig#!load);
 
 }
 
@@ -2334,7 +2334,7 @@ div#im_footer_filler {
 
 .photos_upload_area_img, .photos_choose_upload_area_label {
 
-    background-image: url(http://kapraru.com/img/camera.png);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/camera.png);
 
 }
 
@@ -2444,7 +2444,7 @@ div#im_footer_filler {
 
 #mv_comments_header > img[src$='upload.gif'], .summary > img[src$='upload.gif'],#audio_choose_upload > div.upload_check.loading > img, #video_upload_box2ed8edc1 > div.upload_check.loading > img  {
 
-    background-image: url(http://kapraru.com/img/upload.gif);
+    background-image: url(https://img-fotki.yandex.ru/get/4123/161026817.0/0_abe9b_f5d8da34_orig#!load);
 
 	background-repeat:no-repeat;
 
@@ -3097,6 +3097,31 @@ background: #383C4A !important;
 	
 	.fave_online {
 		color: #ccc !important;
+	}
+	
+	.wdd_text {
+		color: #ccc !important;
+	}
+	
+	.apps_blacklist_filter_wrap {
+		background-color: #2F343F !important;
+	}
+	
+	#im_search_cancel {
+		background: transparent !important;
+		color: #ccc;
+	}
+	
+	#im_search_cancel:hover {
+		color: #5294E2;
+	}
+	
+	.fave_link_desc {
+		color: #ccc;
+	}
+	
+	.fave_link_item {
+		border-color: #2B2E39;
 	}
 	
 }
