@@ -1073,7 +1073,7 @@ div.fc_tab_txt, .dark_box_cont, #im_footer_sh, #im_peer_controls, .box_body, .ph
 
 #profile_photos_upload, #friends .search, #friends .side_panel, #friends .sections_block .side_filter,
 
-.flist_search_cont, #friends_req_tabs,  #profile .rate_line .rate_right, .pad_scrollbar_cont.scrollbar_c_overed, .profile_gift_send, #mail_box_topic_wrap, .wddi_over, .photos_choose_header, .docs_choose_header, .docs_choose_row:hover, #choose_map .place_search_bar, .photos_edit_wall_album, .photos_save_changes, .groups_list_search, #group_recom_more, #public .help_steps_module .help_steps_link, .page_module_upload, #public #subscribe, #public #unsubscribe, #public #unshare, #wpost_post .post_like, #wpost_post .post_share, #wpost_post .post_comments, #wpost_post .wpost_reply_to, .tb_title, .tb_tabs, #pv_comments_header, .selector_container td.selector .token, .box_controls, .settings_view_as_text, #activity_history_box .info_msg, #settings_bl_bar, #search_query_wrap, .choose_header, #group_like_module, .group_block_module, div#wl_replies_header, .docs_side_panel, .docs_search_bar, .bt_header, #ba_post, #ba_post_border, .mv_reply_fakebox_wrap, .flat_button.secondary, .button_gray button, #intr_tt, #audio.new .audio_search, #ac, .audio_share_cont, .audio_friend:hover, .audio_more_friends, .audio_genre_showmore, #pd, #ddreq_wrap, .group_wiki_hider, #apps_search_wrap, .apps_block_more, .apps_i_cont,#mv_comments_header, .gifts_section_show_all, .box_dark .tabbed_box .summary_tabs, .tdd_tag, .tdd_input, .share_tt .content, .apps_featured_wrap .apps_featured_small_thumbs_wrap .apps_featured_row:hover, .apps_layer_header, #wk_summary , #wk_box, .apps_layer_wk_body, .payments_box_wide, .payments_box_wide #payments_box_summary, .left_box, .preq_wrap, .preq_bottom, #videocat_page .videocat_more_toggle, .wk_extpage_head_wrap, .photos_choose_more_albums, .replies_open, #group_actions_wrap, .feed_filter_row_over, #new_ticket, .tickets_faq_row.over, .video_upload_s, .wk_poll_stats_wrap .wk_poll_text, .wk_poll_tabs, #wk_poll_dmgr, .wk_poll_usrs, .wk_poll_stats_wrap .wk_poll_row_percent, .profile_photo_lnk, #pv_friends .list_wrap, #wk_buttons_panel.wk_panel_fixed, #exusm, .gp_vka_ctrls, .group_obscene_announce_info, #ads_edit_audience, .exchange_table tr.even, #ads_page_bottom_info, .payments_systems_container .ps_title h2, a.exchange_ad_post_stats, a.exchange_ad_post_link, .exchange_ad_post_club_commment, .olist_item:hover, .olist_item_wrap_overt, .video_upload_separator_text, .video_upload_separator_line, .video_upload_add_panel:hover, .message_page .body, .im_upload_dropbox_inner, #feed_new_posts,  .feedback_reply_row_wrap, .feedback_row_clickable_over1, .feedback_row_clickable_over2, .feedback_row_clickable_over3, .feedback_row_clickable_over4, .feedback_row_answer_wrap, .chat_tab_typing_wrap, #im_filter_out_groups .im_filter, #im_filter_out .im_filter, .photos_add_bar_wrap, #pad_cont.pad_loading, .priv_h_rows, .module.empty .module_body, .market_search_wrap, .chat_tab_wrap a, #im_to_end_wrap, hr, .community_soft_head, #gedit_users_search_wrap, .summary_tabs {
+.flist_search_cont, #friends_req_tabs,  #profile .rate_line .rate_right, .pad_scrollbar_cont.scrollbar_c_overed, .profile_gift_send, #mail_box_topic_wrap, .wddi_over, .photos_choose_header, .docs_choose_header, .docs_choose_row:hover, #choose_map .place_search_bar, .photos_edit_wall_album, .photos_save_changes, .groups_list_search, #group_recom_more, #public .help_steps_module .help_steps_link, .page_module_upload, #public #subscribe, #public #unsubscribe, #public #unshare, #wpost_post .post_like, #wpost_post .post_share, #wpost_post .post_comments, #wpost_post .wpost_reply_to, .tb_title, .tb_tabs, #pv_comments_header, .selector_container td.selector .token, .box_controls, .settings_view_as_text, #activity_history_box .info_msg, #settings_bl_bar, #search_query_wrap, .choose_header, #group_like_module, .group_block_module, div#wl_replies_header, .docs_side_panel, .docs_search_bar, .bt_header, #ba_post, #ba_post_border, .mv_reply_fakebox_wrap, .flat_button.secondary, .button_gray button, #intr_tt, #audio.new .audio_search, #ac, .audio_share_cont, .audio_friend:hover, .audio_more_friends, .audio_genre_showmore, #pd, #ddreq_wrap, .group_wiki_hider, #apps_search_wrap, .apps_block_more, .apps_i_cont,#mv_comments_header, .gifts_section_show_all, .box_dark .tabbed_box .summary_tabs, .tdd_tag, .tdd_input, .share_tt .content, .apps_featured_wrap .apps_featured_small_thumbs_wrap .apps_featured_row:hover, .apps_layer_header, #wk_summary , #wk_box, .apps_layer_wk_body, .payments_box_wide, .payments_box_wide #payments_box_summary, .left_box, .preq_wrap, .preq_bottom, #videocat_page .videocat_more_toggle, .wk_extpage_head_wrap, .photos_choose_more_albums, .replies_open, #group_actions_wrap, .feed_filter_row_over, #new_ticket, .tickets_faq_row.over, .video_upload_s, .wk_poll_stats_wrap .wk_poll_text, .wk_poll_tabs, #wk_poll_dmgr, .wk_poll_usrs, .wk_poll_stats_wrap .wk_poll_row_percent, .profile_photo_lnk, #pv_friends .list_wrap, #wk_buttons_panel.wk_panel_fixed, #exusm, .gp_vka_ctrls, .group_obscene_announce_info, #ads_edit_audience, .exchange_table tr.even, #ads_page_bottom_info, .payments_systems_container .ps_title h2, a.exchange_ad_post_stats, a.exchange_ad_post_link, .exchange_ad_post_club_commment, .olist_item:hover, .olist_item_wrap_overt, .video_upload_separator_text, .video_upload_separator_line, .video_upload_add_panel:hover, .message_page .body, .im_upload_dropbox_inner, #feed_new_posts,  .feedback_reply_row_wrap, .feedback_row_clickable_over1, .feedback_row_clickable_over2, .feedback_row_clickable_over3, .feedback_row_clickable_over4, .feedback_row_answer_wrap, .chat_tab_typing_wrap, #im_filter_out_groups .im_filter, #im_filter_out .im_filter, .photos_add_bar_wrap, #pad_cont.pad_loading, .priv_h_rows, .module.empty .module_body, .market_search_wrap, .chat_tab_wrap, #im_to_end_wrap, hr, .community_soft_head, #gedit_users_search_wrap, .summary_tabs {
 
     background-color:#2F343F;
 
@@ -1717,7 +1717,7 @@ div#im_footer_filler {
 
 .feed_tab_add_icon, .feed_filter_tabs_icon, .feed_filter_tabs_check {
 
-    background-image: url(http://kapraru.com/img/news_iconset.png);
+    background-image: url(https://img-fotki.yandex.ru/get/6445/161026817.0/0_ac83f_16ee68ec_orig#!news);
 
 }
 
@@ -1749,7 +1749,7 @@ div#im_footer_filler {
 
 .wall_fixed .wall_fixed_more_arrow, .page_market_show_all_arr {
 
-    background-image: url(http://kapraru.com/img/wall_fixed_more_arrows.gif);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/wall_fixed_more_arrows.gif);
 
 }
 
@@ -2225,12 +2225,12 @@ div#im_footer_filler {
 
 
 
-.im_tab_selected.muted .im_tab_muted_span, .im_tab.muted .im_tab_muted_span, .dialogs_push_muted, .dialogs_new_msg .dialogs_push_muted, .dialogs_row_over .dialogs_push_muted {
+/*.im_tab_selected.muted .im_tab_muted_span, .im_tab.muted .im_tab_muted_span, .dialogs_push_muted, .dialogs_new_msg .dialogs_push_muted, .dialogs_row_over .dialogs_push_muted {
 
     background-image: url(http://kapraru.com/img/muted.png);
 
 }
-
+*/
 
 
 #docs_choose_upload_area_label {
@@ -2301,7 +2301,7 @@ div#im_footer_filler {
 
 .left_hide, .left_hide_button, .media_preview .progress_x {
 
-    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/hide_left.gif);
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9sBGwMyDgbbeE0AAAA8SURBVCjPY2AYumDNmjX/iRFjxKUgJCSEEZcYhkZcpqNrwqoRm2Z0TQwMDAxM5IYFdZxKSuCQHR1DCAAAJnUoFCSOAuQAAAAASUVORK5CYII=);
 
 }
 
@@ -3128,17 +3128,60 @@ background: #383C4A !important;
 	.pedit_general_label, .pedit_label, .pedit_interests_label, .pedit_edu_row .label {
 		color: #ccc !important;
 	}
-
+	
 	#pedit_msg {
 		background: #383C4A !important;
 		color: #ccc !important;
 		border-color: #2B2E39 !important;
 	}
-
-	#quick_login .text {
+	
+	#quick_login .text, #im_filter_out_groups .im_filter, #im_filter_out .im_filter{
+		border: 1px;
 		background: #404552 !important;
 		border-color: #2B2E39 !important;
 	}
+	
+		
+	#quick_login .text:hover, #im_filter_out_groups .im_filter:hover, #im_filter_out .im_filter:hover {
+		background: #404552 !important;
+		border-color: #5294E2 !important;
+	}
+	
+	
+	
+	
+	#albums_load_more {
+		background: #2F343F;
+		color: #ccc;
+		border-color: #2B2E39;
+	}
+	
+	#albums_load_more:hover {
+		background: #383C4A;
+		color: #5294E2;
+		border-color: #2B2E39;
+	}
+	
+	.im_log_t .im_log_date {
+		background: transparent !important;
+	}
+	
+	.im_gift_msg .im_msg_text {
+		color: #5294E2 !important;
+	}
+	
+	#profile_groups_link {
+		background: #383C4A !important;
+	}
 
-
+	.profile_info_link:hover {
+		background: #2F343F !important;
+	}
+	
+	
+	
+	
+	
+	
+	
 }
