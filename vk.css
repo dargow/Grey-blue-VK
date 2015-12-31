@@ -19,6 +19,7 @@ a, .head_nav a.top_nav_link:hover, #header span, #header b{
 body {
 
    background: #383C4A 50% 10% no-repeat fixed;
+	color: #ccc !important;
 
 }
 
@@ -1954,7 +1955,7 @@ div#im_footer_filler {
 
 .wall_module .published_by {
 
-    background-image: url(http://kapraru.com/img/published.gif);
+    background-image: url(data:image/gif;base64,R0lGODlhCQAJAKEDAKysrLu7u7+/v////yH5BAEKAAMALAAAAAAJAAkAAAIVnA+nEwkPQ5O0SnXvCUYvCSVdJRwFADs=);
 
 }
 
@@ -2068,7 +2069,7 @@ div#im_footer_filler {
 
 .checkbox div, .checkbox_container table td .checkbox_on, .checkbox_container table td .checkbox_off, .checkbox_container table td .checkbox_on_over, .checkbox_container table td .checkbox_off_over {
 
-    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/check.gif);
+    background-image: url(https://img-fotki.yandex.ru/get/4137/161026817.0/0_abe7c_849b0c0f_orig#!check);
 
 }
 
@@ -2250,7 +2251,7 @@ div#im_footer_filler {
 
 .web_cam_photo_icon {
 
-    background-image: url(http://kapraru.com/img/webcam.png);
+    background-image: url(https://raw.githubusercontent.com/dargow/Grey-blue-VK/master/images/webcam.png);
 
 }
 
@@ -3124,4 +3125,20 @@ background: #383C4A !important;
 		border-color: #2B2E39;
 	}
 	
+	.pedit_general_label, .pedit_label, .pedit_interests_label, .pedit_edu_row .label {
+		color: #ccc !important;
+	}
+
+	#pedit_msg {
+		background: #383C4A !important;
+		color: #ccc !important;
+		border-color: #2B2E39 !important;
+	}
+
+	#quick_login .text {
+		background: #404552 !important;
+		border-color: #2B2E39 !important;
+	}
+
+
 }
